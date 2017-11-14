@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3edf037b-7d4c-4575-9b12-db03340f6166" name="managatsuo" url="http://managatsuo">
+        <fileTransfer host="managatsuo" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/mil/tsuno" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
